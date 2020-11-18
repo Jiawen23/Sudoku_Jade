@@ -1,0 +1,5 @@
+main=true
+gui=true
+platform-id=tdia04
+#port du conteneur principal 
+#local-port=1099
